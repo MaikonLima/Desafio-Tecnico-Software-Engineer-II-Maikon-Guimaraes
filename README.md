@@ -14,7 +14,7 @@ Antes de executar o projeto, certifique-se de que você tem:
 - ✅ Git instalado
 
 
-## Funcionalidades
+## ✨ Funcionalidades
 
 - Listagem de produtos com favoritos
 
