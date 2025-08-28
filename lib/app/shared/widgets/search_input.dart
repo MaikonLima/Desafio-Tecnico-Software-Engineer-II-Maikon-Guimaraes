@@ -49,7 +49,7 @@ class SearchInput extends StatelessWidget {
           textInputAction: TextInputAction.search,
           style: TextStyle(
             fontFamily: 'Poppins',
-            fontSize: 16,
+            fontSize: 19,
             color: theme.colorScheme.onSurface.withOpacity(0.8),
           ),
           decoration: InputDecoration(
@@ -63,7 +63,7 @@ class SearchInput extends StatelessWidget {
             ),
             prefixIcon: const Padding(
               padding: EdgeInsets.only(left: 12, right: 4),
-              child: Icon(Icons.search, size: 22),
+              child: Icon(Icons.search, size: 25),
             ),
             prefixIconConstraints: const BoxConstraints(
               minWidth: 40,
