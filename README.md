@@ -1,16 +1,25 @@
-# fake_store
+# 🛍️ Fake Store App
 
-A new Flutter project.
+Aplicativo Flutter de loja fictícia baseado na [FakeStoreAPI](https://fakestoreapi.com/), com listagem de produtos, favoritos, detalhes e responsividade para mobile e web.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✅ Pré-requisitos
 
-A few resources to get you started if this is your first Flutter project:
+Antes de executar o projeto, certifique-se de que você tem:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ Flutter SDK instalado → [Instalar Flutter](https://docs.flutter.dev/get-started/install)
+- ✅ Android Studio ou VS Code com plugins Flutter e Dart
+- ✅ Um emulador Android ou dispositivo físico conectado
+- ✅ Git instalado
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Como executar o projeto
+
+### 1. Clone o repositório
+
+```bash
+git clone [https://github.com/seu-usuario/fake_store_app.git](https://github.com/MaikonLima/Desafio-Tecnico-Software-Engineer-II-Maikon-Guimaraes.git)
+cd fake_store_app
+```
