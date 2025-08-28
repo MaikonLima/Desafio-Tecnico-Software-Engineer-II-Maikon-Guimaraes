@@ -20,6 +20,6 @@ Antes de executar o projeto, certifique-se de que você tem:
 ### 1. Clone o repositório
 
 ```bash
-git clone [https://github.com/seu-usuario/fake_store_app.git](https://github.com/MaikonLima/Desafio-Tecnico-Software-Engineer-II-Maikon-Guimaraes.git)
+git clone https://github.com/MaikonLima/Desafio-Tecnico-Software-Engineer-II-Maikon-Guimaraes.git
 cd fake_store_app
 ```
